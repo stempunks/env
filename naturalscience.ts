@@ -866,7 +866,7 @@ namespace naturalScience {
     //% weight=90
     //% group="IOT"
     //% blockExternalInputs=1
-    //% blockId=OBLOQ-I2C_MQTT block="MQTT configure|IOT_ID(user):%IOT_ID|IOT_PWD(password):%IOT_PWD|Topic(default topic_0):%IOT_TOPIC|server:%SERVERS||IP:%IP"
+    //% blockId=OBLOQ-I2C_MQTT block="MQTT Configure|IOT_ID(user):%IOT_ID|IOT_PWD(password):%IOT_PWD|Topic(default topic_0):%IOT_TOPIC|server:%SERVERS||IP:%IP"
     export function microIoT_MQTT(
         IOT_ID: string, IOT_PWD: string,
         IOT_TOPIC: string,servers: SERVERS, IP?: string):
