@@ -340,7 +340,7 @@ namespace naturalScience {
 
     //% weight=91
     //% group="OLED"
-    //% String.defl="Hi DFRobot"
+    //% String.defl="Hi STEMPunks"
     //% srow.min=1 srow.max=8
     //% scolumn.min=1 scolumn.max=16
     //% sleng.min=1 sleng.max=16
