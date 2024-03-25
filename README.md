@@ -124,8 +124,6 @@ This micro:bit-based expansion board, specially designed for STEAM education, al
 
 MIT
 
-Copyright (c) 2020, microbit/micropython Chinese community  
-
 ## Supported targets
 
 * for PXT/microbit
