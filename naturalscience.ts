@@ -1,14 +1,5 @@
 /** 
- * @file pxt-DFRobot_NaturalScience-V20/naturalscience.ts
- * @brief DFRobot's NaturalScience makecode library.
- * @n [Get the module here]setOLEDShowString
- * @n 
- * 
- * @copyright    [DFRobot](http://www.dfrobot.com), 2016
- * @copyright    MIT Lesser General Public License
- * 
- * @author [email](jie.tang@dfrobot.com)
- * @date  2020-5-28
+ * MIT Lesser General Public License
 */
 
 const OBLOQ_MQTT_EASY_IOT_SERVER_CHINA = "iot.dfrobot.com.cn"
