@@ -175,7 +175,7 @@ namespace naturalScience {
 
     //% weight=110
     //% group="Sensor"
-    //% blockId=naturalScience_requstdata block="requst data"
+    //% blockId=naturalScience_requstdata block="request data"
     export function requstdata(): void {
         pins.i2cWriteNumber(0x10, 8, NumberFormat.Int8LE);
         let _data = pins.i2cReadBuffer(0x10, 22)
